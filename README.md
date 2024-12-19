@@ -61,17 +61,16 @@ Results were exported to CSV files for Tableau visualization, including KPI comp
 - The new UI increased completion rates by more than 5%, meeting the cost-effectiveness threshold.
 - There were more errors in the Test group compared to the Control group. We rejected the null hypothesis, indicating a significant difference in error rates between the groups.
 - The average completion time was longer for the Test group, but we could not reject the null hypothesis for total time, meaning there was no significant difference in completion times between the groups.
-- The demographic analysis of client profiles (gender, age, tenure, balance) showed no significant biases between the Test and Control groups, confirming the experimental design was balanced.
+- The demographic analysis of client profiles revealed some differences in age distribution between the Test and Control groups, while the gender distribution was balanced across both groups.
 
 ---
 
 ## Deliverables
 
 1. **Jupyter Notebook:** Code for data cleaning and analysis.
-2. **.py Files:** Functions used in the analysis.
-3. **Tableau Dashboards:** Interactive visualizations.
-4. **README:** Project documentation.
-5. **Presentation:** Slides summarizing findings and recommendations.
+2. **Tableau Dashboards:** Interactive visualizations.
+3. **README:** Project documentation.
+4. **Presentation:** Slides summarizing findings and recommendations.
 
 ---
 
