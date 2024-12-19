@@ -92,7 +92,7 @@ Results were exported to CSV files for Tableau visualization, including KPI comp
 
 ## Links
 
-- **GitHub Repository:** [Vanguard UI A/B Test]((https://github.com/danielagarciagimeno/UI-A-B-Testing-at-Vanguard)
+- **GitHub Repository:** [Vanguard UI A/B Test](https://github.com/danielagarciagimeno/UI-A-B-Testing-at-Vanguard)
 - **Presentation Slides:** [Canva](https://www.canva.com/design/DAGZRhMTMow/3oMVFGT4pyajSYJKEsBG0Q/edit)
 
 ---
